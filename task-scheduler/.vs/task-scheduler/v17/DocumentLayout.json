@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14775C37-E8DE-4E4B-BE95-87292EB8C6E7}|task-scheduler\\task-scheduler-api.csproj|c:\\users\\rafael\\desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler\\controllers\\userschedulercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14775C37-E8DE-4E4B-BE95-87292EB8C6E7}|task-scheduler\\task-scheduler-api.csproj|solutionrelative:task-scheduler\\controllers\\userschedulercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14775C37-E8DE-4E4B-BE95-87292EB8C6E7}|task-scheduler\\task-scheduler-api.csproj|c:\\users\\rafael\\desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14775C37-E8DE-4E4B-BE95-87292EB8C6E7}|task-scheduler\\task-scheduler-api.csproj|solutionrelative:task-scheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14775C37-E8DE-4E4B-BE95-87292EB8C6E7}|task-scheduler\\task-scheduler-api.csproj|c:\\users\\rafael\\desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler\\task-scheduler-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{14775C37-E8DE-4E4B-BE95-87292EB8C6E7}|task-scheduler\\task-scheduler-api.csproj|solutionrelative:task-scheduler\\task-scheduler-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8E0BA6-8B60-4313-AFD1-BAD4491EF526}|task-scheduler-domain\\task-scheduler-domain.csproj|c:\\users\\rafael\\desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler-domain\\task-scheduler-domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E8E0BA6-8B60-4313-AFD1-BAD4491EF526}|task-scheduler-domain\\task-scheduler-domain.csproj|solutionrelative:task-scheduler-domain\\task-scheduler-domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0665D1B-CFE2-472B-A8CE-1DA9234D23E7}|task-scheduler-infrastructure\\task-scheduler-infrastructure.csproj|c:\\users\\rafael\\desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler-infrastructure\\task-scheduler-infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A0665D1B-CFE2-472B-A8CE-1DA9234D23E7}|task-scheduler-infrastructure\\task-scheduler-infrastructure.csproj|solutionrelative:task-scheduler-infrastructure\\task-scheduler-infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09DF390-0448-4E58-9DF4-80FE3B7EF1E9}|task-scheduler-application\\task-scheduler-application.csproj|c:\\users\\rafael\\desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler-application\\task-scheduler-application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C09DF390-0448-4E58-9DF4-80FE3B7EF1E9}|task-scheduler-application\\task-scheduler-application.csproj|solutionrelative:task-scheduler-application\\task-scheduler-application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler\\Program.cs",
+              "RelativeDocumentMoniker": "task-scheduler\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler\\Program.cs",
+              "RelativeToolTip": "task-scheduler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:01:54.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task-scheduler-api.csproj",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler\\task-scheduler-api.csproj",
+              "RelativeDocumentMoniker": "task-scheduler\\task-scheduler-api.csproj",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler\\task-scheduler-api.csproj",
+              "RelativeToolTip": "task-scheduler\\task-scheduler-api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T00:01:54.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSchedulerController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler\\Controllers\\UserSchedulerController.cs",
+              "RelativeDocumentMoniker": "task-scheduler\\Controllers\\UserSchedulerController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler\\Controllers\\UserSchedulerController.cs",
+              "RelativeToolTip": "task-scheduler\\Controllers\\UserSchedulerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:01:52.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task-scheduler-domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler-domain\\task-scheduler-domain.csproj",
+              "RelativeDocumentMoniker": "task-scheduler-domain\\task-scheduler-domain.csproj",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler-domain\\task-scheduler-domain.csproj",
+              "RelativeToolTip": "task-scheduler-domain\\task-scheduler-domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T00:01:51.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task-scheduler-infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler-infrastructure\\task-scheduler-infrastructure.csproj",
+              "RelativeDocumentMoniker": "task-scheduler-infrastructure\\task-scheduler-infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler-infrastructure\\task-scheduler-infrastructure.csproj",
+              "RelativeToolTip": "task-scheduler-infrastructure\\task-scheduler-infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T00:01:51.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task-scheduler-application.csproj",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler-application\\task-scheduler-application.csproj",
+              "RelativeDocumentMoniker": "task-scheduler-application\\task-scheduler-application.csproj",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\ddd-studies-task-scheduler\\task-scheduler\\task-scheduler-application\\task-scheduler-application.csproj",
+              "RelativeToolTip": "task-scheduler-application\\task-scheduler-application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T00:01:49.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
